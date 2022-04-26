@@ -1,0 +1,1 @@
+Projeto criado para entender o funcionamento do gerenciador de dependencias Maven
